@@ -1,4 +1,4 @@
-Q: Why does my game crashes when loading up/doesn't load up at all?
+Q: Why does my game crashes when loading up / doesn't load up at all?
 A: Remove levelhead, though apparently some versions of Levelhead don't have that problem. Not having patcher also causes this problem.
 
 Q: Why does the gemstone macro not work for me?
